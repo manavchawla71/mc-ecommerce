@@ -3,6 +3,7 @@ import "./Home.css";
 import { sliderData, settings, brands } from "./HomeUtils";
 import { Link } from "react-router-dom";
 import Slider from "react-slick";
+
 const Home = () => {
   return (
     <div className="landing-page-home flex-col">
