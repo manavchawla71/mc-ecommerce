@@ -19,6 +19,7 @@ const Home = () => {
           <div className="video-sub-title">
             Ranger Shoe is a destination for style seekers.
           </div>
+
           <Link to="/product">
             <button
               className="cta-button"
